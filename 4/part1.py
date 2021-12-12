@@ -1,5 +1,4 @@
-f = open("day04_in", "r")
-data = f.read().split("\n")
+data = open("input.txt", "r").read().split("\n")
 
 numbers = data[0].split(",")
 
